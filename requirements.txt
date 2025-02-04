@@ -1,0 +1,11 @@
+groq
+Pillow
+google-generativeai
+opencv-python
+pyperclip
+pyaudio
+faster-whisper
+speechrecognition
+pyttsx3
+requests
+python-dotenv
